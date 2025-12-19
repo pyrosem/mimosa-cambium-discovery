@@ -29,7 +29,7 @@
 1. Programı **Yönetici olarak** çalıştırın
 2. Ağ arayüzünü seçin veya **"OTOMATİK"** kullanın
 3. **"DİNLEMEYİ BAŞLAT"** tıklayın
-4. Cihazın fişini çekip takın
+4. Cihazın ethernet kablosunu ağdan çekip takın
 5. Cihaz listede görünecek - IP'ye tıklayarak tarayıcıda açın
 
 ---
