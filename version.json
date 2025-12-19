@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "download_url": "https://github.com/pyrosem/mimosa-cambium-discovery/releases/download/v1.0.0/WirelessDiscoverySetup.exe",
-    "changelog": "İlk versiyon"
+    "version": "1.1.0",
+    "download_url": "https://github.com/pyrosem/mimosa-cambium-discovery/releases/download/v1.1.0/WirelessDiscoverySetup.exe",
+    "changelog": "- Ubiquiti cihaz desteği eklendi\n- Arayüz iyileştirmeleri yapıldı\n- Performans artırıldı"
 }
