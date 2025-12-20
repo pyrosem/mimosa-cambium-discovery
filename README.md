@@ -2,6 +2,8 @@
 
 🔍 **IP adresinden bağımsız olarak Mimosa ve Cambium kablosuz ağ cihazlarını bulan araç.**
 
+📥 [İNDİR - WirelessDiscoverySetup.exe](https://github.com/pyrosem/mimosa-cambium-discovery/raw/main/WirelessDiscoverySetup.exe)
+
 ---
 
 ## 📋 Özellikler
@@ -16,7 +18,7 @@
 
 ## 🚀 Kurulum
 
-1. [Releases](https://github.com/pyrosem/mimosa-cambium-discovery/releases) sayfasından `WirelessDiscoverySetup.exe` indirin
+1. Yukarıdaki **"İNDİR"** linkine tıklayın
 2. Kurulumu çalıştırın
 3. Npcap kurulumunda **"Install Npcap in WinPcap API-compatible Mode"** seçin
 
