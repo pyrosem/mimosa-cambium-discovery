@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "download_url": "https://github.com/pyrosem/mimosa-cambium-discovery/raw/main/WirelessDiscoverySetup.exe",
-    "changelog": "- Otomatik mod hatası düzeltildi\n- Açılışta otomatik güncelleme kontrolü\n- Sessiz kurulum desteği"
+    "changelog": "- Geçici IP ekleme özelliği\n- Farklı ağdaki cihazlara erişim\n- DHCP ayarları korunuyor\n- Program kapanınca otomatik temizlik"
 }
