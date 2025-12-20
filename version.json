@@ -1,5 +1,5 @@
 {
     "version": "1.1.0",
-    "download_url": "https://github.com/pyrosem/mimosa-cambium-discovery/releases/download/v1.1.0/WirelessDiscoverySetup.exe",
-    "changelog": "- Güncelleme sistemi eklendi\n- Arayüz iyileştirmeleri yapıldı\n- Performans artırıldı"
+    "download_url": "https://github.com/pyrosem/mimosa-cambium-discovery/raw/main/WirelessDiscoverySetup.exe",
+    "changelog": "- Otomatik mod hatası düzeltildi\n- Açılışta otomatik güncelleme kontrolü\n- Sessiz kurulum desteği"
 }
